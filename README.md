@@ -4,8 +4,8 @@
 
 # Machine Learning Models:
 
-Each Model will consist of a .py, a .ipynb file, and a pkl file.
-The .py will contain the coding, the .ipynb the developmental coding and notes, and the .pkl file the model.
+Each Model will consist of a .py and a pkl file.
+The .py will contain the coding, and the .pkl file the model.
 
 Model1R-Simple
 
