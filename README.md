@@ -11,12 +11,17 @@ Model1R-Simple
 
 Requirements: 
 
-Python 3.11.4, 
-Pandas 2.0.3, 
-Numpy 1.25.0, 
-sklearn 1.3.0, 
-xgboost 2.0.3, 
-Optuna 3.6.0, 
+Python 3.11.4
+
+Pandas 2.0.3
+
+Numpy 1.25.0
+
+sklearn 1.3.0
+
+xgboost 2.0.3
+
+Optuna 3.6.0
 
 
 
