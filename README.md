@@ -1,6 +1,9 @@
 ### Models
-Model1R - Simple
+
 Model1R
+
+Model1R - Simple
+
 ## Contents:
 
 # Machine Learning Models:
