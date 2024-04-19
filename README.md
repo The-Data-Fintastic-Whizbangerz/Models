@@ -4,14 +4,14 @@ Model1R
 
 Model1R - Simple
 
+XGBR
+
 ## Contents:
 
 # Machine Learning Models:
 
 Each Model will consist of a .py and a pkl file.
 The .py will contain the coding, and the .pkl file the model.
-
-Model1R-Simple
 
 Requirements: 
 
