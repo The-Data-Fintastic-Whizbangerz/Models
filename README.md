@@ -4,7 +4,7 @@ Model1R
 
 Model1R - Simple
 
-XGBR
+XGBR - Final Model
 
 ## Contents:
 
