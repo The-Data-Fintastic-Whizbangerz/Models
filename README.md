@@ -4,7 +4,7 @@
 
 ## Notebooks
 
-Models.ipynb - used to Develop coding of all models
+### Models.ipynb - used to Develop coding of all models
 
 Initial Models:
 Multivariate Linear Model,
@@ -17,7 +17,7 @@ Optimised Extreme Gradient Boosting Tree 1,
 Optimised Extreme Gradient Boosting Tree 2,
 Optimised Extreme Gradient Boosting Tree 3
  
-Explore.ipynb - brief preliminary EDA of the raw and cleaned datasets are explored to inform the Modelling
+### Explore.ipynb - brief preliminary EDA of the raw and cleaned datasets are explored to inform the Modelling
  
 ## Model .py files
  
